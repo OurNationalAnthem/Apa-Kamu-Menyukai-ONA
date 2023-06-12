@@ -4,11 +4,10 @@ import Counter from "~/components/Counter";
 export default function Home() {
   return (
     <main>
-      <style>
-body {
-  background-image: url("https://wallpapers.com/images/hd/k-on-in-maid-outfit-aanss3m1zqv4m0xx.jpg");
+    body {
+ background-image: url("https://wallpapers.com/images/hd/k-on-in-maid-outfit-aanss3m1zqv4m0xx.jpg");
+ background-color: #cccccc;
 }
-</style>
       <Title>オナは唯平沢愛してるよ</Title>
       <h1>Apa Kamu Mencintai ONA</h1>
       <h2>Jika Iya Kalian Boleh Click Sebanyak Banyaknya</h2>
