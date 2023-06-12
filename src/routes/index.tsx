@@ -5,15 +5,15 @@ export default function Home() {
   return (
     <main>
       <Title>ONA Cinta Yui</Title>
-      <h1>Apa Kamu Menyukai Dan Mencintai ONA</h1>
-      <h3>Jika Iya Kalian Boleh Click Sebanyak Banyaknya</h3>
+      <h1>Apa Kamu Mencintai ONA</h1>
+      <h2>Jika Iya Kalian Boleh Click Sebanyak Banyaknya</h2>
       <Counter />
       <p>
         Subscribe{" "}
         <a href="https://www.youtube.com/channel/UCz5DSVzY-1CjwA5nlKmzVSA" target="_blank">
-          start.solidjs.com
+          Our National Anthem
         </a>{" "}
-        (Our National Anthem) Untuk Cinta Yang Lebih ULTIMAKS
+        Untuk Cinta Yang Lebih ULTIMAKS
       </p>
     </main>
   );
