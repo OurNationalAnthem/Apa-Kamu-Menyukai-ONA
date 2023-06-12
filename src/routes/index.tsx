@@ -4,7 +4,6 @@ import Counter from "~/components/Counter";
 export default function Home() {
   return (
     <main>
-      <div class="container">
       <img class="mw-100" src="https://www.pngitem.com/pimgs/m/17-173589_transparent-yui-hirasawa-png-k-on-yui-stop.png" alt="Max-width 50%">
         <header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom">
           <a href="/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto link-body-emphasis text-decoration-none">
@@ -15,7 +14,6 @@ export default function Home() {
     
   
         </header>
-      </div>
       <Title>オナは唯平沢愛してるよ</Title>
       <h1>Apa Kamu Mencintai ONA</h1>
       <h2>Jika Iya Kalian Boleh Click Sebanyak Banyaknya</h2>
