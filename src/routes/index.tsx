@@ -4,7 +4,7 @@ import Counter from "~/components/Counter";
 export default function Home() {
   return (
     <main>
-      <img class="mw-100" src="https://www.pngitem.com/pimgs/m/17-173589_transparent-yui-hirasawa-png-k-on-yui-stop.png" alt="Max-width 50%">
+      <h3>ONA Entertaiment|ONA娛樂</h3>
       <Title>オナは唯平沢愛してるよ</Title>
       <h1>Apa Kamu Mencintai ONA</h1>
       <h2>Jika Iya Kalian Boleh Click Sebanyak Banyaknya</h2>
