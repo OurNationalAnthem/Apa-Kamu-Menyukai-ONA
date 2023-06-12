@@ -6,7 +6,7 @@ export default function Home() {
     <main>
       <style>
 body {
-  background-image: url('https://wallpapers.com/images/hd/k-on-in-maid-outfit-aanss3m1zqv4m0xx.jpg');
+  background-image: url("https://wallpapers.com/images/hd/k-on-in-maid-outfit-aanss3m1zqv4m0xx.jpg");
 }
 </style>
       <Title>オナは唯平沢愛してるよ</Title>
