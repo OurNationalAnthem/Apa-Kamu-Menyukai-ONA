@@ -4,8 +4,9 @@ import Counter from "~/components/Counter";
 export default function Home() {
   return (
     <main>
-      <Title>Apa Kamu Menyukai Dan Mencintai ONA</Title>
-      <h1>Jika Iya Kalian Boleh Click Sebanyak Banyaknya</h1>
+      <Title>ONA Cinta Yui</Title>
+      <h1>Apa Kamu Menyukai Dan Mencintai ONA</h1>
+      <h3>Jika Iya Kalian Boleh Click Sebanyak Banyaknya</h3>
       <Counter />
       <p>
         Subscribe{" "}
