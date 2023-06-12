@@ -4,15 +4,15 @@ import Counter from "~/components/Counter";
 export default function Home() {
   return (
     <main>
-      <Title>Hello World</Title>
-      <h1>Hello world!</h1>
+      <Title>Apa Kamu Menyukai Dan Mencintai ONA</Title>
+      <h1>Jika Iya Kalian Boleh Click Sebanyak Banyaknya</h1>
       <Counter />
       <p>
-        Visit{" "}
-        <a href="https://start.solidjs.com" target="_blank">
+        Subscribe{" "}
+        <a href="https://www.youtube.com/channel/UCz5DSVzY-1CjwA5nlKmzVSA" target="_blank">
           start.solidjs.com
         </a>{" "}
-        to learn how to build SolidStart apps.
+        (Our National Anthem) Untuk Cinta Yang Lebih ULTIMAKS
       </p>
     </main>
   );
