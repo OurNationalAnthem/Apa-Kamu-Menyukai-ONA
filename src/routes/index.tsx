@@ -13,7 +13,7 @@ export default function Home() {
         <a href="https://www.youtube.com/channel/UCz5DSVzY-1CjwA5nlKmzVSA" target="_blank">
           Our National Anthem
         </a>{" "}
-        Untuk Cinta Yang Lebih ULTIMAKS
+       Untuk Cinta Yang Lebih ULTIMAKS
       </p>
     </main>
   );
