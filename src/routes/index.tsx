@@ -4,7 +4,7 @@ import Counter from "~/components/Counter";
 export default function Home() {
   return (
     <main>
-      <Title>ONA Cinta Yui</Title>
+      <Title>オナは唯平沢愛してるよ</Title>
       <h1>Apa Kamu Mencintai ONA</h1>
       <h2>Jika Iya Kalian Boleh Click Sebanyak Banyaknya</h2>
       <Counter />
